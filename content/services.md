@@ -1,0 +1,19 @@
++++
+title = "Services"
+description = "Rush Aerospace, Your manufacturing partner."
+date = "2025-01-23"
+aliases = ["about-us", "about-rush", "services"]
+author = "Rush Aerospace"
++++
+
+- PCB/PCBA Design: Our company specializes in the design of printed circuit boards (PCBs) and printed circuit board assemblies (PCBAs). We use the latest software and technology to create detailed designs that meet or exceed industry standards. Our team of experienced engineers can assist with the design of single-sided, double-sided, and multi-layer PCBs, as well as surface-mount and through-hole technology.
+- Mechanical Design: Our team of experienced mechanical engineers uses the latest technology and techniques to design and develop innovative solutions for our clients. We use computer-aided design (CAD) software and simulation tools to create detailed 3D models of our designs and perform virtual simulations to test their performance and identify potential issues.
+- Analysis & Simulation: Our team of experienced engineers specializes in using the latest simulation tools and techniques to analyze and optimize the performance of a wide range of products and systems. We use simulation to study the behavior of structures, analyze the performance of mechanical systems, and optimize the design of products and systems.
+- Rapid Manufacturing (including additive): We specialize in using the latest rapid manufacturing technologies to produce parts and components for a wide range of industries. We use 3D printing (additive manufacturing) to produce complex geometries, internal features, quickly and at a lower cost, and with high precision and accuracy.
+- Fabrication: Our team of experienced fabricators specializes in creating high-quality products for a wide range of industries. We use a variety of fabrication techniques, including welding, machining, and assembly, to create parts and components that meet or exceed industry standards. We also offer a range of services to support our customers, including prototyping, testing, and certification.
+- Quality Control and Inspection: We offer comprehensive quality control and inspection services to ensure that our products meet or exceed industry standards and customer requirements. Our team of experienced quality control technicians use a variety of techniques, including visual inspection, dimensional measurement, and functional testing, to ensure that our products are free from defects and perform as expected.
+- Reverse Engineering: We offer reverse engineering services to help our customers improve existing products or create new products based on existing designs. Our team of experienced engineers can analyze existing products and create detailed drawings and specifications for use in new designs.
+- Prototyping and Low-volume Production: We offer rapid prototyping services to help our customers quickly and efficiently create functional prototypes of their designs. We can also assist with low-volume production runs to help our customers test their designs and gather feedback before moving to full-scale production.
+- Supply Chain Management: We offer supply chain management services to help our customers streamline their procurement processes and ensure that they have the materials and components they need when they need them. Our team of experienced logistics professionals can help our customers source materials and components, coordinate shipments, and manage inventory.
+- Technical Support and Maintenance: We offer technical support and maintenance services to help our customers ensure that their products are operating at peak performance. Our team of experienced technicians can provide on-site support, troubleshoot issues, and perform regular maintenance to help our customers keep their products running smoothly.
+
